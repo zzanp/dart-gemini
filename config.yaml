@@ -1,0 +1,4 @@
+gemini:
+  hostname: localhost
+  port: 1965
+  password: 'supersecretpassword'
